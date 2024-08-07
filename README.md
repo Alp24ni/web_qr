@@ -1,4 +1,4 @@
-# web-qrv2
+# web_qr
 <h1 align="center"> WEB BASED MULTIDEVICE QR </h1>
 
   
