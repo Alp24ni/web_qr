@@ -13,15 +13,23 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
+================ KERM-MD SESSION ID  ==============
 ╔════◇
 ║ *『 WAOW YOU CHOOSE KERM-MD 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Owner:* _https://wa.me/3370656520674_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
+║ ┌───⭓『
+❒ *KERM-MD*
+❒ _NOW DEPLOY IT_
+└────────────⭓
+┌───⭓
+❒  • Chat with owner •
+❒ *GitHub:* __https://github.com/RayanHack5/KERM-MD_
+❒ *Owner:* _https://wa.me/2370656520674_
+❒ *WaGroup:* _https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw_
+└────────────⭓
 ╚════════════════════════╝
 `
 
