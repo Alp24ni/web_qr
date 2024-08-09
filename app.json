@@ -1,9 +1,9 @@
 {
     "name": "Kerm-md",
-    "description": "I am Kerm-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\",
-    "logo": "https://telegra.ph/file/1999deebe6edf02af31b9.jpg",
+    "description": "I'am SASAKI-MD_V2 Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\",
+    "logo": "https://telegra.ph/file/8aff6928045c1fddb8800.jpg",
     "repository": "https://github.com/Alp24ni/web-qrv2",
-    "keywords": ["whatsappbot", "KermMd", "Kerm-Md bot", "KERM-Md", "KermMdWhatsaooBot", "kermWaBot","KERM-MD","Kerm Md Whatsapp Bot","multi device"],
+    "keywords": ["whatsappbot", "SASAKI-MD_V2", "SASAKI-MD_V2 bot", "SASAKI-MD_V2", "SASAKI-MD_V2 WhatsaooBot", "SASAKI-MD_V2 WaBot","SASAKI-MD_V2","SASAKI-MD_V2 Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇\n║ *『 WAOW YOU CHOOSE KERM-MD 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n*Owner:* _https://wa.me/2370656520674_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
+        "value": "╔════◇\n║ *『 WAOW YOU CHOOSE SASAKI-MD_V2 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n*Owner:* _https://wa.me/221768649590_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
         "required": false 
       }
     }   
