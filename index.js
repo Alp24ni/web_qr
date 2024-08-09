@@ -13,34 +13,20 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-================ KERM-MD SESSION ID  ==============
-╔════◇
-║ *『 WAOW YOU CHOOSE KERM-MD 』*
-║ _You complete first step to making Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ ┌───⭓『
-❒ *KERM-MD*
-❒ _NOW DEPLOY IT_
-└────────────⭓
+================ SASAKI-MD_V2 SESSION ID  ==============          
+┌⟝——————◀︎ SASAKI-MD_V2 🔥
 ┌───⭓
-❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/RayanHack5/KERM-MD_
-❒ *Owner:* _https://wa.me/2370656520674_
-❒ *WaGroup:* _https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw_
-└────────────⭓
+┃ ◀︎ SASAKI-MD_V2 paired successfully 🕊✘
+
+❒• ╔═════◇ Chat with owner •
+┃ ◀︎ Developer:- https://wa.me/221768649590
+┃ ◀︎ Github:- https://github.com/Alp24ni
+┃ ◀︎ Channel:- https://whatsapp.com/channel/0029VaahaCWDzgTKeG9S7u1W
+┃ ◀︎ Support:- https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9
+┃ Make sure you provide session id to someone you trust only ⚠️ .
+└ - - - -SASAKI-MD_V2 ✤
 ╚════════════════════════╝
 `
-
-
-
-
-
-
-
-
-
 
 
 if (fs.existsSync('./auth_info_baileys')) {
