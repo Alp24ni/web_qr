@@ -13,18 +13,34 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-================ SASAKI-MD_V2 SESSION ID  ==============          
-┌⟝——————◀︎ SASAKI-MD_V2 🔥
-┌───⭓
-┃ ◀︎ SASAKI-MD_V2 paired successfully 🕊✘
 
+================ SASAKI-MD_V2 SESSION ID  ============== 
+
+                『••• TEAM SASAKI •••』
+
+┌⟝——————◀︎ SASAKI-MD_V2 🔥
+  ┌───⭓
+  
+┃  SASAKI-MD_V2 paired successfully🕊✘
+╔═════◇
+  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+  
 ❒• ╔═════◇ Chat with owner •
-┃ ◀︎ Developer:- https://wa.me/221768649590
-┃ ◀︎ Github:- https://github.com/Alp24ni
-┃ ◀︎ Channel:- https://whatsapp.com/channel/0029VaahaCWDzgTKeG9S7u1W
-┃ ◀︎ Support:- https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9
-┃ Make sure you provide session id to someone you trust only ⚠️ .
-└ - - - -SASAKI-MD_V2 ✤
+
+┃  Developer:- https://wa.me/221768649590
+
+┃  Github:- https://github.com/Alp24ni
+
+┃  Channel:- https://whatsapp.com/channel/0029VaahaCWDzgTKeG9S7u1W
+
+┃  Support:- https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9
+
+┃   ❒•Make sure you provide session id to someone you trust only ⚠️ .
+╔════◇
+║ *『 WOW YOU'VE CHOSEN SASAKI-MD_V2』*
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╚════════════════════════╝
+ - - - -SASAKI-MD_V2 ✤
 ╚════════════════════════╝
 `
 
